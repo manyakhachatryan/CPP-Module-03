@@ -2,6 +2,7 @@
 
 ClapTrap::ClapTrap()
 {
+    _name = "Default name";
     _hitPoints = 10;
     _energy = 10;
     _attackDamage = 0;
